@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "theme of us",
+  "base_artist": "cinema staff",
+  "createdAt": "2026-02-09T09:54:12.126045Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Theme of Us",
+      "artist": "cinema staff",
+      "has_synced": true,
+      "path": "select/01_Theme_of_Us_cinema_staff.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "theme of us",
+      "artist": "cinema staff",
+      "has_synced": false,
+      "path": "select/pl_01_theme_of_us_cinema_staff.txt"
+    }
+  ]
+}
